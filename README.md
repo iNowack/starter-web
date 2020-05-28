@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Udemy Git Starter Web Repo
 
 This repository is for showing how Git and GitHub work
 
@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Owner / Student: 
 
-Ivan Novakovic QA ENg
+Ivan Novakovic QA Eng
 
 ## Show me your code
 
