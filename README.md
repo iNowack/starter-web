@@ -14,4 +14,6 @@ Ivan Novakovic QA Eng
 
 Coding is fun :)
 
-CopyRight
+## CopyRight
+
+All rights reserved.
