@@ -13,5 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    git
 
 Please leave a review
