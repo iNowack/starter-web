@@ -6,4 +6,11 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Owner / Student: Ivan Novakovic
+## Owner / Student: 
+
+Ivan Novakovic
+
+## Show me your code
+
+Coding is fun :)
+
