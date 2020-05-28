@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Owner / Student: 
 
-Ivan Novakovic
+Ivan Novakovic QA ENg
 
 ## Show me your code
 
